@@ -1,0 +1,81 @@
+Aug 26:  Classes begin
+Oct 21: Admin Mon (Tues classes do not meet)
+11/26 Thanksgiving begins
+12/1  classes resume
+12/9 -  12/13  final examinations
+
+1. Mathematical Introduction (vector spaces, operators, the eigenvalue problem)
+
+8/26
+8/28
+9/2
+9/4
+
+2. Review of Classical Mechanics (Recommended reading! -- NOT covered)
+
+
+3. All is Not Well with Classical Mechanics
+9/9
+
+4. The Postulates
+9/11
+9/16
+9/18
+9/23
+
+The Density Matrix (pgs 133-134) -- NOT covered
+Generalized Postulate 2
+
+5. Simple Problems in One Dimension
+
+9/25
+9/30
+
+Sections 5.4, 5.5, 5.6 (pgs 167-178) -- NOT covered
+2x2 problems (extra material to be covered)
+
+
+6. The Classical Limit
+
+10/2
+
+10/7 --  Midterm ( Ch. 1 -- 6 )
+
+7. The Harmonic Oscillator
+10/9
+10/14
+10/16
+10/21
+
+Method of Frobenius (extra material to be covered)
+
+
+
+8. The Path Integral Formulation of Quantum Theory -- NOT COVERED
+9. The Heisenberg Uncertainty Relations -- NOT COVERED
+
+10. Systems with N Degrees of Freedom
+10/23
+10/28
+
+
+11. Symmetries and their Consequences
+10/30
+11/4
+11/6
+11/11
+
+12. Rotational Invariance and Angular Momentum
+Wigner Rotation matrices (extra material to be covered)
+11/13
+11/18
+11/20
+11/25
+
+13. The Hydrogen Atom
+12/2
+12/4
+
+(if we have time we will do Chapter 8 or molecular physics)
+
+Dec 9 ? Exam ( Ch. 1 -- 13)
